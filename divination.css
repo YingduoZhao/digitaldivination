@@ -5,7 +5,10 @@ body{
     
 }
 
-
+#sketch{
+    text-align:center;
+    position:relative;
+}
 
 .purpleBar{
     background-color: aqua; 
@@ -17,10 +20,7 @@ background-image: url(pictures/coverPicture.jpg);
 background-size: 90%;
 
 }
-#sketch{
-    text-align:center;
-    position:relative;
-}
+
 .purpleBarHeight2{ 
     height: 530px;
     background-image: url(pictures/nightSky.jpg);
